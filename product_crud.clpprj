@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\xammp\htdocs\product_crud\product_crud.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/product_crud/]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/product_crud/]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+  <PM_LANGUAGE><![CDATA[]]></PM_LANGUAGE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\xammp\htdocs\product_crud\index.php"/>
+  <file name="C:\xammp\htdocs\product_crud\Create.php"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.12.0"/>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file crc="1635875906190" name="C:\xammp\htdocs\product_crud\NewFile1.txt"/>
+  <file crc="1635773717701" name="C:\xammp\htdocs\product_crud\index.php"/>
+  <file crc="1635873901382" name="C:\xammp\htdocs\product_crud\Create.php"/>
+  <file crc="1635521601966" name="C:\xammp\htdocs\product_crud\app.css"/>
+ </filescache>
+</project>
